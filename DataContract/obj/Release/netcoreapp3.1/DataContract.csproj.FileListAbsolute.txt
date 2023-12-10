@@ -1,0 +1,20 @@
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\bin\Release\netcoreapp3.1\DataContract.deps.json
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\bin\Release\netcoreapp3.1\DataContract.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\bin\Release\netcoreapp3.1\DataContract.pdb
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Release\netcoreapp3.1\DataContract.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Release\netcoreapp3.1\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Release\netcoreapp3.1\DataContract.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Release\netcoreapp3.1\DataContract.AssemblyInfo.cs
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Release\netcoreapp3.1\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Release\netcoreapp3.1\DataContract.dll
+C:\Users\Victor\Desktop\PAD Laborator nr.3 Group #3 Project\DataContract\obj\Release\netcoreapp3.1\DataContract.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\bin\Release\netcoreapp3.1\DataContract.deps.json
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\bin\Release\netcoreapp3.1\DataContract.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\bin\Release\netcoreapp3.1\DataContract.pdb
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\obj\Release\netcoreapp3.1\DataContract.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\obj\Release\netcoreapp3.1\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\obj\Release\netcoreapp3.1\DataContract.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\obj\Release\netcoreapp3.1\DataContract.AssemblyInfo.cs
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\obj\Release\netcoreapp3.1\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\obj\Release\netcoreapp3.1\DataContract.dll
+C:\Users\Alex\Desktop\PAD Laborator nr.3\DataContract\obj\Release\netcoreapp3.1\DataContract.pdb

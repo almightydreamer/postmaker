@@ -1,0 +1,9 @@
+version: '3.3'
+services:
+    backend:
+        build:
+            context: .
+            dockerfile: /home/service_api_11/PostMaker/PostMaker/Dockerfile
+        ports:
+            - 80:80
+            - 443:443
