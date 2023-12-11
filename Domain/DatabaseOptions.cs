@@ -11,7 +11,7 @@ namespace Domain
 #endif
 
 #if RELEASE
-        public const string DatabaseConnectionString = @"Data Source = 35.239.171.79;Initial Catalog=PostMaker;User id=sqlserver;Password=AlH4tmr35f0;MultipleActiveResultSets=True";
+        public const string DatabaseConnectionString = @"Data Source = tcp:lab3pad.database.windows.net;Initial Catalog=PostMakerV2;User id=sqlserver;Password=AlH4tmr35f0;MultipleActiveResultSets=True";
 #endif
     }
 }
